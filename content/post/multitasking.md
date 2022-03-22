@@ -6,7 +6,7 @@ title: multitasking
 description: Jekyll has a rule that any directory not starting with `_` will be copied
   as-is to the `_site` output.
 weight: '10'
-image_width: ''
+image_width: w300
 tags: []
 categories: []
 menu:
