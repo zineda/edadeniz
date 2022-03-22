@@ -38,4 +38,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/i-ktisat-bolumunu-kazanan-ogrencilere-oneriler.md
 - content/post/multitasking.md
