@@ -4,7 +4,7 @@ date = 2014-04-05T17:40:34Z
 description = ""
 image_width = ""
 tags = []
-title = "İktisat Bölümünü Kazanan Öğrencilere Öneriler"
+title = "İktisat Bölümünü Kazanan Öğrencilere Öneriler (TR)"
 
 +++
 Ege Üniversitesi İktisat bölümünü kazandığım yaz, internet üzerindeki araştırmalarım neticesinde iktisat ile ilgili olarak uzunca bir kitap listesi hazırlamıştım. Okumaya başladığım ilk kitap oldukça teorik olduğu için, bir okuma planına ihtiyacım olduğunu düşündüm. Bunun üzerine Ege Üniversitesi İktisat bölümü akademik kadrosundan bir araştırma görevlisi ile hazırladığım _“kitap listesi”_ ve _“okuma planı”_ üzerine görüştüm. Bu konu ile ilgili alanında uzman birinden bir yönlendirme almak işimi epey kolaylaştırmıştı.
