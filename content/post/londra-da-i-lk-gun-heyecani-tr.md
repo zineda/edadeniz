@@ -19,9 +19,7 @@ Odaya yerleştim, biraz dinlendikten sonra dil eğitimi alacağım okulu _(_[_Ma
 
 Tek başıma yavaş yavaş yürüyerek hem fotoğraf çektim, hem de mağazaları gezdim. Londra’nın mimari yapısı beni birkaç saatte dahi etkilemeyi başardı.
 
-Bu haftasonunu gezerek geçireceğim, çünkü önümüzdeki günler çok yoğun bir tempoda ders çalışacağım. Fotoğrafları da şuraya bırakayım.   
-  
-![](/uploads/london_1.jpg)
+Bu haftasonunu gezerek geçireceğim, çünkü önümüzdeki günler çok yoğun bir tempoda ders çalışacağım.
 
 > 💡 Bugün Ne Öğrendim?
 
