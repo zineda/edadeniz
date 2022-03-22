@@ -9,7 +9,7 @@ title = "Londra’da İlk Gün Heyecanı (TR)"
 +++
 Macera dolu Londra seyahatimin ilk gününü sorunsuz bir şekilde bitirmiş olmanın mutluluğunu yaşıyorum şu an. İzmir otogarında ailemle vedalaştıktan sonra, saat 11'de Dalaman’a doğru yola çıktım. Akşam saat 5 gibi Dalaman Havalimanı’na vardım ve 10'da uçak havalandı.
 
-Uçuş esnasında inanılmaz derecede sıkılmış olmalıyım ki, yanımdaki yaşlı ve kibar İngiliz amca, her 10 dakikada bir “are you OK?” diye sormaktan yorgun düştü. Neyse ki 4 saat sonra Londra Luton Havalimanı’na vardım. Hattımı yurtdışına açabildim mi diye içim içimi yer iken, telefonu açtığımda şebekenin çektiğini görmek beni nasıl mutlu etti tahmin bile edemezsiniz.
+Uçuş esnasında inanılmaz derecede sıkılmış olmalıyım ki, yanımdaki yaşlı ve kibar İngiliz amca, her 10 dakikada bir “are you OK?” diye sormaktan yorgun düştü. Neyse ki 4 saat sonra Londra Luton Havalimanı’na vardım. Hattımı yurt dışına açabildim mi diye içim içimi yer iken, telefonu açtığımda şebekenin çektiğini görmek beni nasıl mutlu etti tahmin bile edemezsiniz.
 
 Değerli Utku Hocam’ın vasıtasıyla beni karşılamaya gelen Cemal Abi, gece yurda girişlerin yasak olması sebebiyle beni kendi evlerinde misafir etti. Misafirperver Sinan Abi ve Cemal Abi ile birlikte biraz vakit geçirdikten sonra günün yorgunluğunu üzerimden atabilmek için odama geçip uyudum.
 
@@ -19,7 +19,7 @@ Odaya yerleştim, biraz dinlendikten sonra dil eğitimi alacağım okulu _(_[_Ma
 
 Tek başıma yavaş yavaş yürüyerek hem fotoğraf çektim, hem de mağazaları gezdim. Londra’nın mimari yapısı beni birkaç saatte dahi etkilemeyi başardı.
 
-Bu haftasonunu gezerek geçireceğim, çünkü önümüzdeki günler çok yoğun bir tempoda ders çalışacağım. 
+Bu haftasonunu gezerek geçireceğim, çünkü önümüzdeki günler çok yoğun bir tempoda ders çalışacağım.
 
 > 💡 Bugün Ne Öğrendim?
 
