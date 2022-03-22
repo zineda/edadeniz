@@ -38,5 +38,6 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/hos-geldim-tr.md
 - content/post/i-ktisat-bolumunu-kazanan-ogrencilere-oneriler.md
 - content/post/multitasking.md
