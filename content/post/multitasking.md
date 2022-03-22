@@ -25,7 +25,7 @@ Let me explain why I value this topic. When I started working as a data analyst,
 
 Whether it makes sense or not, multitasking is a part of our lives. For instance, it seems like a must-have skill for almost any job. If you have ever applied for a position on a job portal, you know what I mean. However, we humans aren’t technically made for it. Let's explore this together to understand **why we are not designed for multitasking.**
 
-📎 The only things you need for this exercise are a timer, a pen, and a piece of paper.
+> 📎 The only things you need for this exercise are a timer, a pen, and a piece of paper.
 
 Ready?
 
@@ -41,7 +41,7 @@ Now, we will do the same thing, but this time by writing down **across rows** _(
 
 How much time did that take? To be honest, I've never met a person where the second scenario took less than the first. So, what was the lesson we learned here?
 
-👌 Focusing on one thing helps you concentrate more, allowing you to get more done in less time.
+> 👌 Focusing on one thing helps you concentrate more, allowing you to get more done in less time.
 
 I’m not trying to convince you that multitasking is a good thing or a bad thing but what I am trying to say here is that switching the focus between contexts causes a loss of time and an increase in stress that can have negative effects on the memory as you've just experienced with our simple exercise.
 
