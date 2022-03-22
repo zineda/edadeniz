@@ -28,7 +28,7 @@ Whether it makes sense or not, multitasking is a part of our lives. For instance
 
 Ready?
 
-We will create on the paper a table that consists of three columns and ten rows: numbers from 1-10, Roman numerals, and Latin letters.
+We will create on paper a table that consists of three columns and ten rows: numbers from 1-10, Roman numerals, and Latin letters.
 
 Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (_scenario 1_) below.
 
