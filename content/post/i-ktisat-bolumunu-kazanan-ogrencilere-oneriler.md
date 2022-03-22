@@ -27,7 +27,7 @@ Lisansta geçen dört senenin ardından, iktisatın bilgi edindikçe, bildikçe 
 
 Diyelim ki dersler gayet yolunda.
 
-> **Pekiyi iktisat, gündelik hayatınızın neresinde yer almalı? İktisat bölümü birinci sınıf öğrencisi zamanını nasıl daha nitelikli değerlendirmeli**
+> 💡Pekiyi iktisat, gündelik hayatınızın neresinde yer almalı? İktisat bölümü birinci sınıf öğrencisi zamanını nasıl daha nitelikli değerlendirmeli?
 
 * **Günlük ekonomi haberleri:** Bir iktisat bölümü lisans öğrencisi, düzenli olarak ekonomi köşe yazarlarını takip etmeli, ekonomi bloglarını okumalıdır ([_yazaroku.com_](http://yazaroku.com/) _sitesini kullanarak, ekonomi kategorisinden tüm ekonomi köşe yazılarına ulaşabilirsiniz_).
 * **Süreli yayınlar:** İlgi alanlarınız doğrultusunda mutlaka _“İktisat ve Toplum”, “Birikim”, “The Economist”, “Toplum ve Bilim”, “Capital”, “İktisat, İşletme ve Finans”, “Para”_ gibi süreli yayınları takip etmelisiniz. Günde sadece 1 TL’ye ayda en az 3 adet dergi okuyabilir, hatta imece usulü arkadaşlarınızla da dayanışabilirsiniz.
