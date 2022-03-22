@@ -1,0 +1,33 @@
+	{{ partial "head.html" . }}
+	<body>
+	{{ partial "nav.html" . }}
+	{{ partial "profile.html" . }}
+
+	<section id="wrapper" class="home">
+		<ul id="post-list">
+		{{ range .Data.Pages.GroupByDate "2006" }}
+			<h3>{{ .Key }}</h3>
+			<li>
+					{{ range .Pages }}
+					<a href="{{ .Permalink }}" class="post-link">
+						<div class="dates">{{ .Date.Format "Jan 2" }}</div>
+						<div class="title">{{ if .Site.Params.useDescriptionAsTitle }}</div>
+					</a>
+	                {{ .Description }}
+	            {{ else }}
+	            	 {{ .Title }}
+	          	{{ end }}
+					</div>
+					{{ end }}			
+			</li>
+		{{ end }}
+		</ul>
+		{{ partial "footer.html" . }}
+	</section>
+
+	<div class="dd">
+	</div>
+
+	{{ partial "js.html" . }}
+	</body>
+</html>

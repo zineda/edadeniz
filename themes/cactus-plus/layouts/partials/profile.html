@@ -1,0 +1,16 @@
+<div class="profile">
+    <section id="wrapper">
+        <header id="header">
+            <a href='{{ .Site.BaseURL }}'>
+                <picture id="hexagon" class="2x">
+                <!-- <source srcset="{{ .Site.BaseURL }}images/avatar.webp" type="image/webp"> -->
+                <!-- <source srcset="{{ .Site.BaseURL }}images/avatar.jp2" type="image/jp2"> -->
+                <img srcset="{{ .Site.BaseURL }}images/avatar.jpg" alt="avatar">
+              </picture>
+            </a>
+            <h1>{{ .Site.Params.name }}</h1>
+            <h4>{{ .Site.Params.bio | markdownify }}</h4>
+            <h4>{{ .Site.Params.more_bio | markdownify }}</h4>
+        </header>
+    </section>
+</div>

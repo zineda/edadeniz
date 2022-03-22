@@ -1,0 +1,41 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+  default: now
+- name: image_width
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - w200
+    - w250
+    - w300
+    - w350
+    - w400
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Image width
+  description: Select the image width from this list. <br>(click on x on the right
+    to go back to full width)
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+pages:
+- content/post/multitasking.md
