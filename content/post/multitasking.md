@@ -2,13 +2,14 @@
 date: 2021-03-09T23:00:00.000+00:00
 linktitle: multi
 prev: "/tutorials/mathjax"
-title: multitasking
+title: Multitasking
 description: Jekyll has a rule that any directory not starting with `_` will be copied
   as-is to the `_site` output.
 weight: '10'
-image_width: w300
+image_width: w250
 tags: []
-categories: []
+categories:
+- agile
 menu:
   main:
     parent: tutorials
@@ -31,13 +32,13 @@ We will create on the paper a table that consists of three columns and ten rows:
 
 Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (_scenario 1_) below.
 
-![](/uploads/across_column.png)
+![Scenario 1: Across columns](/uploads/across_column.png)
 
 Scenario 1: Across columns
 
 Now, we will do the same thing, but this time by writing down **across rows** _(scenario 2)._
 
-![](/uploads/across_rows.png)
+![Scenario 2: Across rows](/uploads/across_rows.png)
 
 Scenario 2: Across rows
 
