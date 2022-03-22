@@ -1,13 +1,14 @@
 ---
-date: 2021-03-09T23:00:00.000+00:00
+date: 2022-03-04T23:00:00+00:00
 linktitle: multi
 prev: "/tutorials/mathjax"
-title: Multitasking
-description: Jekyll has a rule that any directory not starting with `_` will be copied
-  as-is to the `_site` output.
+title: 'To Multitask or Not to Multitask?: That is the Question'
+description: ''
 weight: '10'
 image_width: w250
-tags: []
+tags:
+- agile
+- multitasking
 categories:
 - agile
 menu:
