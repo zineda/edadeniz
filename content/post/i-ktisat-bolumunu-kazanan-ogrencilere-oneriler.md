@@ -13,6 +13,8 @@ Ben de bu blog yazımda, iktisat bölümünü yeni kazanan iktisatçı adayı ar
 
 Az önce 2014 ÖSYS Kontenjanları Kılavuzu’nu kaynak alarak, üşenmeden, tek tek iktisat bölümü kontenjanlarını saydım. Sayılar epey yüksek! **Türkiye’de yaklaşık olarak 20.500 iktisat bölümü kontenjanı var.** Belirtmem gerekir ki, bu kontenjana kılavuzda yer alan _“yurtdışındaki üniversiteler”, “ekonometri”_ ve _“finans”_ gibi türev bölümler de dahil değil!
 
+***
+
 > 💡Pekiyi, her yıl yaklaşık olarak 20.000 mezun veren bir bölümde, bir adım öne çıkmak için ne yapmalı, nereden başlamalı?
 
 Bu yazıyı yazarken, bunun üzerine ben de tekrar tekrar düşündüm. Ben iktisadı bir bilim dalı olarak tercih edip akademisyen olmak isteyen bir öğrenciyim; fakat diğer tarafta iktisadı meslek kazanma amacı ile tercih eden, özel sektörde ya da kamuda çalışmak üzere tercih eden birçok arkadaşım da mevcut. Bu noktada lisans eğitimini hepimizin tekdüze geçirmesi düşünülemez. Bu yüzdendir ki, bu yazıyı genel hatlarıyla ele alıp bir sonraki yazımda ise akademide, özel sektörde ve KPSS’de başarılı olan arkadaşlarımdan da yola çıkarak daha spesifik bir yazı kaleme almam gerektiği kanaatine vardım.
