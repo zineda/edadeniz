@@ -7,6 +7,7 @@ description: ''
 weight: '10'
 image_width: w250
 tags:
+- scrum
 - agile
 - multitasking
 categories:
