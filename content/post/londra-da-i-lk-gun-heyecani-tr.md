@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["me"]
 date = 2011-07-23T18:56:48Z
 description = ""
 image_width = ""
-tags = []
+tags = ["london", "language school"]
 title = "Londra Günlükleri: Londra’da İlk Gün Heyecanı (TR)"
 
 +++
