@@ -24,7 +24,7 @@ Bu haftasonunu gezerek geçireceğim, çünkü önümüzdeki günler çok yoğun
 > 💡 Bugün Ne Öğrendim?
 
 1. İngilizler balkonlu evleri tercih etmiyorlar herhalde, bugün hiç balkonlu bir ev görmedim.
-2. İngiltere’de trafik ters akıyor, bugün Cemal Abinin yanına oturacağım der iken, şoför koltuğuna oturacaktım. 😂
+2. İngiltere’de trafik ters akıyor, bugün Cemal abinin yanına oturacağım der iken, şoför koltuğuna oturacaktım. 😂
 3. İngiltere’den Türkiye’yi ucuza arayabilmek için en iyi hattın Lebara olduğunu öğrendim.
 4. Tottenham Hale’da inanılmaz derecede Türk var.
 5. Toplu Ulaşım araçlarında Oyster kartı kullanılıyor.
