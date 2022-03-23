@@ -1,5 +1,5 @@
 ---
-date: 2022-03-04T23:00:00+00:00
+date: 2022-03-04T23:00:00.000+00:00
 linktitle: multi
 prev: "/tutorials/mathjax"
 title: 'To Multitask or Not to Multitask?: That is the Question'
@@ -7,6 +7,7 @@ description: ''
 weight: '10'
 image_width: w250
 tags:
+- book
 - scrum
 - agile
 - multitasking
