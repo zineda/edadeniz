@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["me"]
 date = 2014-04-05T17:40:34Z
 description = ""
 image_width = ""
-tags = []
+tags = ["bachelor degree", "ege university", "economics"]
 title = "İktisat Bölümünü Kazanan Öğrencilere Öneriler (TR)"
 
 +++
