@@ -29,10 +29,9 @@ Diyelim ki dersler gayet yolunda.
 
 > 💡Pekiyi iktisat, gündelik hayatınızın neresinde yer almalı? İktisat bölümü birinci sınıf öğrencisi zamanını nasıl daha nitelikli değerlendirmeli?
 
-**  
-\- Günlük ekonomi haberleri:** Bir iktisat bölümü lisans öğrencisi, düzenli olarak ekonomi köşe yazarlarını takip etmeli, ekonomi bloglarını okumalıdır ([_yazaroku.com_](http://yazaroku.com/) _sitesini kullanarak, ekonomi kategorisinden tüm ekonomi köşe yazılarına ulaşabilirsiniz_).
-
 **- Süreli yayınlar:** İlgi alanlarınız doğrultusunda mutlaka _“İktisat ve Toplum”, “Birikim”, “The Economist”, “Toplum ve Bilim”, “Capital”, “İktisat, İşletme ve Finans”, “Para”_ gibi süreli yayınları takip etmelisiniz. Günde sadece 1 TL’ye ayda en az 3 adet dergi okuyabilir, hatta imece usulü arkadaşlarınızla da dayanışabilirsiniz.
+
+**- Günlük ekonomi haberleri:** Bir iktisat bölümü lisans öğrencisi, düzenli olarak ekonomi köşe yazarlarını takip etmeli, ekonomi bloglarını okumalıdır ([_yazaroku.com_](http://yazaroku.com/) _sitesini kullanarak, ekonomi kategorisinden tüm ekonomi köşe yazılarına ulaşabilirsiniz_).
 
 **- Yabancı dil:** Birinci sınıf, lisans eğitiminiz süresince en çok boş vaktinizin olduğu dönemdir. Bu dönemde ne kadar çok yabancı dil çalışırsanız İngilizce olan derslerin sınavlarında kendinizi ifade etmekte zorlanmaz, özellikle son sınıfta mezuniyet sonrası planlarınıza odaklanırken, yabancı dil çalışmak zorunda kalmazsınız. O yüzden bu dönemde, olabildiğince çok yabancı dilde film ve dizi izlemeli, yabancı dildeki yayınları takip etmelisiniz. Özeleştiri yapmam gerekirse, ben bu konuda hala hayıflanıyorum.
 
@@ -46,7 +45,7 @@ Diyelim ki dersler gayet yolunda.
 
 Birkaç öneri demiştim, ama bayağı uzun bir yazı oldu.
 
-\- Son olarak, lütfen okuyun ve okuduklarınızı not edin. Okurken kendinize soru sorun. Merak ettiklerinizi, yeni öğrendiklerinizi paylaşın.
+\- Son olarak, lütfen okuyun ve okuduklarınızı not edin. Okurken kendinize sorular sorun. Merak ettiklerinizi, yeni öğrendiklerinizi paylaşın.
 
 \- Fakültede salt _“yeni alınan ayakkabılar, ruj renkleri ya da saç modelleri”_ üzerine sohbet ettiğiniz arkadaşlarınız olmasın; dünya sorunlarına kafa yoran, sohbeti hoş, entelektüel, idealist, son derste işlenen konuları tartışabileceğiniz, kitap takası yapabileceğiniz arkadaşlarınız da olsun.
 

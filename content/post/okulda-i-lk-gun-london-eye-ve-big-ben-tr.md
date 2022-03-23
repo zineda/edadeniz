@@ -4,7 +4,7 @@ date = 2011-07-25T19:06:14Z
 description = ""
 image_width = ""
 tags = []
-title = "Okulda İlk Gün, London Eye ve Big Ben (TR)"
+title = "Londra Günlükleri: Okulda İlk Gün (TR)"
 
 +++
 Londra’da heyecanlı ve biraz da çekingen geçirdiğim ilk günün ertesinde, Pazar sabahına uyandım. Şunu baştan söylemeliyim ki, Londra’da pazarları gerçekten çok sıkıcı geçiyormuş. Öncelikle yurttan okula ne kadar sürede gidebileceğimi hesaplamak ve sınıfımı öğrenebilmek için sabahın erken saatlerinde okula gittim. Geç kalmayı sevmediğimi bilen bilir. :) Yurt ile okul arası 15-20 dk filan sürüyor, yani her sabah 8'i 10 geçe uyanıp 15 dakikada hazırlanıp yola koyulmam gerekiyor.
