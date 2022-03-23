@@ -3,7 +3,7 @@ categories = []
 date = 2014-12-10T12:09:26Z
 description = ""
 image_width = ""
-tags = []
+tags = ["paperwhite 2", "book", "kindle", ""]
 title = "11 Maddede Neden \"PaperWhite 2\"? (TR)"
 
 +++
