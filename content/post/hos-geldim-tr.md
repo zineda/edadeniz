@@ -3,7 +3,7 @@ categories = []
 date = 2008-08-20T18:39:37Z
 description = ""
 image_width = ""
-tags = []
+tags = ["diary", "high school", "first blog"]
 title = "Hoş Geldim! (TR)"
 
 +++
