@@ -13,8 +13,6 @@ Ben de bu blog yazımda, iktisat bölümünü yeni kazanan iktisatçı adayı ar
 
 Az önce 2014 ÖSYS Kontenjanları Kılavuzu’nu kaynak alarak, üşenmeden, tek tek iktisat bölümü kontenjanlarını saydım. Sayılar epey yüksek! **Türkiye’de yaklaşık olarak 20.500 iktisat bölümü kontenjanı var.** Belirtmem gerekir ki, bu kontenjana kılavuzda yer alan _“yurtdışındaki üniversiteler”, “ekonometri”_ ve _“finans”_ gibi türev bölümler de dahil değil!
 
-***
-
 > 💡Pekiyi, her yıl yaklaşık olarak 20.000 mezun veren bir bölümde, bir adım öne çıkmak için ne yapmalı, nereden başlamalı?
 
 Bu yazıyı yazarken, bunun üzerine ben de tekrar tekrar düşündüm. Ben iktisadı bir bilim dalı olarak tercih edip akademisyen olmak isteyen bir öğrenciyim; fakat diğer tarafta iktisadı meslek kazanma amacı ile tercih eden, özel sektörde ya da kamuda çalışmak üzere tercih eden birçok arkadaşım da mevcut. Bu noktada lisans eğitimini hepimizin tekdüze geçirmesi düşünülemez. Bu yüzdendir ki, bu yazıyı genel hatlarıyla ele alıp bir sonraki yazımda ise akademide, özel sektörde ve KPSS’de başarılı olan arkadaşlarımdan da yola çıkarak daha spesifik bir yazı kaleme almam gerektiği kanaatine vardım.
@@ -32,6 +30,7 @@ Diyelim ki dersler gayet yolunda.
 > 💡Pekiyi iktisat, gündelik hayatınızın neresinde yer almalı? İktisat bölümü birinci sınıf öğrencisi zamanını nasıl daha nitelikli değerlendirmeli?
 
 * **Günlük ekonomi haberleri:** Bir iktisat bölümü lisans öğrencisi, düzenli olarak ekonomi köşe yazarlarını takip etmeli, ekonomi bloglarını okumalıdır ([_yazaroku.com_](http://yazaroku.com/) _sitesini kullanarak, ekonomi kategorisinden tüm ekonomi köşe yazılarına ulaşabilirsiniz_).
+* 
 * **Süreli yayınlar:** İlgi alanlarınız doğrultusunda mutlaka _“İktisat ve Toplum”, “Birikim”, “The Economist”, “Toplum ve Bilim”, “Capital”, “İktisat, İşletme ve Finans”, “Para”_ gibi süreli yayınları takip etmelisiniz. Günde sadece 1 TL’ye ayda en az 3 adet dergi okuyabilir, hatta imece usulü arkadaşlarınızla da dayanışabilirsiniz.
 * **Yabancı dil:** Birinci sınıf, lisans eğitiminiz süresince en çok boş vaktinizin olduğu dönemdir. Bu dönemde ne kadar çok yabancı dil çalışırsanız İngilizce olan derslerin sınavlarında kendinizi ifade etmekte zorlanmaz, özellikle son sınıfta mezuniyet sonrası planlarınıza odaklanırken, yabancı dil çalışmak zorunda kalmazsınız. O yüzden bu dönemde, olabildiğince çok yabancı dilde film ve dizi izlemeli, yabancı dildeki yayınları takip etmelisiniz. Özeleştiri yapmam gerekirse, ben bu konuda hala hayıflanıyorum.
 * **Teknik beceriler:** Bilgisayar kullanım bilginiz sosyal medyadan ibaret olmasın. Bilgisayar derslerine düzenli olarak katılmaya özen gösterin. Bilgisayar dersinde eğitimi verilen Microsoft Office araçlarını iyi öğrenmelisiniz, çünkü daha sonraki yıllarda yapacağınız sunumlarda, yazacağınız makalelerde ve istatistik-ekonometri derslerinde bu ve diğer araçları sıkça kullanacaksınız. Microsoft Office araçlarını iyi derecede kullanamamanız durumunda ise mezuniyet sonrasında binlerce TL bütçe ayırıp özel bir kursa gitmek mecburiyetinde kalabilirsiniz.
