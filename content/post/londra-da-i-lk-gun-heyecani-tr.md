@@ -7,7 +7,7 @@ tags = ["london", "language school"]
 title = "Londra Günlükleri: Londra’da İlk Gün Heyecanı (TR)"
 
 +++
-Macera dolu Londra seyahatimin ilk gününü sorunsuz bir şekilde bitirmiş olmanın mutluluğunu yaşıyorum şu an. İzmir otogarında ailemle vedalaştıktan sonra, saat 11'de Dalaman’a doğru yola çıktım. Akşam saat 5 gibi Dalaman Havalimanı’na vardım ve 10'da uçak havalandı.
+19 yaşındayım ve ilk kez yurt dışına çıkıyorum. O yüzden macera dolu Londra seyahatimin ilk gününü sorunsuz bir şekilde bitirmiş olmanın mutluluğunu yaşıyorum şu an. İzmir otogarında ailemle vedalaştıktan sonra, saat 11'de Dalaman’a doğru yola çıktım. Akşam saat 5 gibi Dalaman Havalimanı’na vardım ve 10'da uçak havalandı.
 
 Uçuş esnasında inanılmaz derecede sıkılmış olmalıyım ki, yanımdaki yaşlı ve kibar İngiliz amca, her 10 dakikada bir “are you OK?” diye sormaktan yorgun düştü. Neyse ki 4 saat sonra Londra Luton Havalimanı’na vardım. Hattımı yurt dışına açabildim mi diye içim içimi yer iken, telefonu açtığımda şebekenin çektiğini görmek beni nasıl mutlu etti tahmin bile edemezsiniz.
 
