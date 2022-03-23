@@ -4,7 +4,7 @@ date = 2011-07-23T18:56:48Z
 description = ""
 image_width = ""
 tags = []
-title = "Londra’da İlk Gün Heyecanı (TR)"
+title = "Londra Günlükleri: Londra’da İlk Gün Heyecanı (TR)"
 
 +++
 Macera dolu Londra seyahatimin ilk gününü sorunsuz bir şekilde bitirmiş olmanın mutluluğunu yaşıyorum şu an. İzmir otogarında ailemle vedalaştıktan sonra, saat 11'de Dalaman’a doğru yola çıktım. Akşam saat 5 gibi Dalaman Havalimanı’na vardım ve 10'da uçak havalandı.
