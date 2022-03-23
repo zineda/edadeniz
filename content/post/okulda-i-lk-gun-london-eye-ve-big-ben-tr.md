@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["me"]
 date = 2011-07-25T19:06:14Z
 description = ""
 image_width = ""
-tags = []
+tags = ["photos", "london", "language school"]
 title = "Londra Günlükleri: Okulda İlk Gün (TR)"
 
 +++
