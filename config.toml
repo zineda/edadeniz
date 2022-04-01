@@ -10,8 +10,8 @@ googleAnalytics = "UA-83015550-1"
 [params]
 	name = "Eda Deniz Özdemir"
 	description = "Ex-basketball player, ex-young entrepreneur, ex-blogger, ex-non-profit co-founder. Currently working as Data Analyst at idealo."
-	bio = "Data Analyst at [@Idealo](https://www.idealo.de/)" 
-	more_bio = "previously at [@Leuphana](https://www.leuphana.de/) & [@Smaato](https://www.smaato.com/)" 
+	bio = "Business Intelligence Manager at [@WeAreEra](http://weareera.com)" 
+	more_bio = "previously at [@Idealo](https://www.idealo.de/) & [@Smaato](https://www.smaato.com/)" 
 
   
 	# Enter optionally your twitter account
