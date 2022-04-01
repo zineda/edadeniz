@@ -1,5 +1,5 @@
 ---
-title: Eda Deniz Özdemir
+title: Eda Özdemir
 
 ---
 I’m a Business Intelligence Manager living in Berlin, Germany – originally from Manisa, Turkey, which is world-famous for its sultana grapes.
