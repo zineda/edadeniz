@@ -4,7 +4,7 @@ title: Eda Deniz Özdemir
 ---
 I’m a Business Intelligence Manager living in Berlin, Germany – originally from Manisa, Turkey, which is world-famous for its sultana grapes.
 
-Currently, I’m working at [_We Are Era_](https://www.weareera.com/), which is part of an RTL Group, and Bertelsmann, and I lead the Business Intelligence team, tasked with writing our very own data success stories. Before that, I was working as a data analyst on the Inventory Intelligence team at [_Idealo internet GmbH_](https://www.idealo.de/), supporting our business teams by providing data-driven analyses and research. R is my dominant language professionally. While I’m doing statistical analysis and modeling data with R and Python, I find Tableau to be the best tool for data visualization because it is easy to use and rich with useful features.
+Currently, I’m working at [We Are Era](https://www.weareera.com/), which is part of an RTL Group, and Bertelsmann, and I lead the Business Intelligence team, tasked with writing our very own data success stories. Before that, I was working as a data analyst on the Inventory Intelligence team at [Idealo internet GmbH](https://www.idealo.de/), supporting our business teams by providing data-driven analyses and research. R is my dominant language professionally. While I’m doing statistical analysis and modeling data with R and Python, I find Tableau to be the best tool for data visualization because it is easy to use and rich with useful features.
 
 My bachelor’s degree is in economics from the [University of Ege](https://ege.edu.tr/), and I also studied data science and management (Master of Science) at the [Leuphana University](https://www.leuphana.de/) in Lüneburg.
 
