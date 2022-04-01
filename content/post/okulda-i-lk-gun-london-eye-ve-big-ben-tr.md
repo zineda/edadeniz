@@ -21,8 +21,8 @@ Neyse okuldaki işlemlerimi tamamladıktan sonra sınıfıma geçtim. Sınıfta 
 
 Eğlenceli geçen derslerin sonunda; 1 Brezilyalı, 2 İtalyan, 1 İspanyol, 1 Japon ve 2 Türk olarak Londra turuna çıktık. İtalyan arkadaşlarımın tur boyunca çok soru sorduğumdan dolayı gazetecilik okuduğumu sanmalarını da söylemeden geçemeyeceğim. 🙈
 
-Yorgun bir günün sonunda, Londra’nın gece soğuğunu hissettiğim şu dakikalar Londra’da olmaktan mutluyum. Bugünün anısına fotoğrafları şuraya bırakıyorum.  
-  
+Yorgun bir günün sonunda, Londra’nın gece soğuğunu hissettiğim şu dakikalarda Londra’da olmaktan mutluyum. Bugünün anısına fotoğrafları şuraya bırakıyorum.
+
 ![](/uploads/london_4.jpg)
 
 ![](/uploads/london_1.jpg)
