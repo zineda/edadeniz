@@ -1,0 +1,17 @@
+backend:
+  name: git-gateway
+  branch: main  # Ana şubenin adını doğru yaz (main veya master)
+
+media_folder: "static/images/uploads"  # Görsellerin kaydedileceği yer
+public_folder: "/images/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog Yazıları"
+    folder: "content/post"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Başlık", name: "title", widget: "string" }
+      - { label: "Tarih", name: "date", widget: "datetime" }
+      - { label: "İçerik", name: "body", widget: "markdown" }
