@@ -1,6 +1,13 @@
 backend:
   name: git-gateway
-  branch: main  # Ana şubenin adını doğru yaz (main veya master)
+  branch: main  # Ana branch'in adı (GitHub'da "main" veya "master" olmalı)
+  commit_messages:
+    create: "Yeni içerik eklendi: {{slug}}"
+    update: "İçerik güncellendi: {{slug}}"
+    delete: "İçerik silindi: {{slug}}"
+
+site_url: "https://edadeniz.com"  # Buraya kendi site URL'ni yaz
+local_backend: false
 
 media_folder: "static/images/uploads"  # Görsellerin kaydedileceği yer
 public_folder: "/images/uploads"
