@@ -1,12 +1,12 @@
----
-categories: []
-date: 2014-12-10T12:09:26Z
-description: ""
-image_width: ""
-tags: ["paperwhite 2", "book", "kindle", ""]
-title: "11 Maddede Neden \"PaperWhite 2\"? (TR)"
++++
+categories = []
+date = 2014-12-10T12:09:26Z
+description = ""
+image_width = ""
+tags = ["paperwhite 2", "book", "kindle", ""]
+title = "11 Maddede Neden \"PaperWhite 2\"? (TR)"
 
----
++++
 Uzunca bir aradan sonra, yeniden merhaba!
 
 Blog ile ilgilenmeyeli epey zaman oldu, farkındayım. Hamburg’a geldiğimden beri zaman o kadar hızlı akıyor ki, yazmaya pek vakit bulamıyorum. Şu an yazıyorum, çünkü daha önce sosyal medyadan belki de birkaç kez paylaştığım bir konuyu buradan da paylaşma ihtiyacı duydum. Zira bu konuyla ilgili epey mesaj aldım.
