@@ -11,6 +11,26 @@ media_folder: static/images/uploads
 public_folder: /images/uploads
 
 collections:
+  - name: settings
+    label: Profile / Site settings
+    files:
+      - name: profile
+        label: Profile
+        file: data/profile.toml
+        format: toml
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Headline / Bio, name: bio, widget: string }
+          - { label: Previous roles, name: more_bio, widget: string }
+          - { label: Profile photo, name: avatar, widget: image }
+          - label: Social links
+            name: social
+            widget: object
+            fields:
+              - { label: GitHub, name: github, widget: string, required: false }
+              - { label: LinkedIn, name: linkedin-square, widget: string, required: false }
+              - { label: Twitter, name: twitter, widget: string, required: false }
+
   - name: pages
     label: Pages
     files:
