@@ -1,15 +1,20 @@
 <footer id="footer">
-    {{ if .Site.Social }}
+    {{ $profile := .Site.Data.profile }}
+    {{ $links := $profile.social }}
+    {{ if not $links }}
+      {{ $links = .Site.Social }}
+    {{ end }}
+    {{ if $links }}
         {{ partial "social.html" . }}
     {{ end }}
     <p class="small">
     {{ with .Site.Params.copyright }}
         {{ . | markdownify }}
     {{ else }}
-        © Copyright {{ now.Format "2006"}} <i class="fa fa-random" aria-hidden="true"></i> {{ .Site.Params.name }}
+        © Copyright {{ now.Format "2006"}} <i class="fa fa-random" aria-hidden="true"></i> {{ $profile.name | default .Site.Params.name }}
     {{ end }}
     </p>
     <p class="small">
-        Built with <a href="http://www.gohugo.io/">Hugo</a>. Hosted on <a href="http://www.github.com/"> Github</a>.
+        Built with <a href="http://www.gohugo.io/">Hugo</a>. Hosted on Netlify.
     </p>
 </footer>
