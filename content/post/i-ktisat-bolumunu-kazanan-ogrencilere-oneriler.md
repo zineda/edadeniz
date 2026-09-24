@@ -1,12 +1,16 @@
-+++
-categories = ["me"]
-date = 2014-04-05T17:40:34Z
-description = ""
-image_width = ""
-tags = ["bachelor degree", "ege university", "economics"]
-title = "İktisat Bölümünü Kazanan Öğrencilere Öneriler (TR)"
-
-+++
+---
+title: İktisat Bölümünü Kazanan Öğrencilere Öneriler (TR)
+date: 2014-04-05T17:40:34.000Z
+description: ""
+categories:
+  - me
+tags:
+  - bachelor degree
+  - ege university
+  - economics
+image_width: ""
+draft: true
+---
 Ege Üniversitesi İktisat bölümünü kazandığım yaz, internet üzerindeki araştırmalarım neticesinde iktisat ile ilgili olarak uzunca bir kitap listesi hazırlamıştım. Okumaya başladığım ilk kitap oldukça teorik olduğu için, bir okuma planına ihtiyacım olduğunu düşündüm. Bunun üzerine Ege Üniversitesi İktisat bölümü akademik kadrosundan bir araştırma görevlisi ile hazırladığım _“kitap listesi”_ ve _“okuma planı”_ üzerine görüştüm. Bu konu ile ilgili alanında uzman birinden bir yönlendirme almak işimi epey kolaylaştırmıştı.
 
 Ben de bu blog yazımda, iktisat bölümünü yeni kazanan iktisatçı adayı arkadaşlarıma, iktisat bölümü dördüncü sınıf öğrencisi olmamın verdiği yeti ile birkaç öneride bulunmak, bölüm ve üniversite ile çatışmanın en çok yaşandığı birinci sınıf ile ilgili olarak birkaç şey paylaşmak istedim.
