@@ -13,11 +13,11 @@ public_folder: /images/uploads
 collections:
   - name: settings
     label: Profile / Site settings
+    format: toml
     files:
       - name: profile
         label: Profile
         file: data/profile.toml
-        format: toml
         fields:
           - { label: Name, name: name, widget: string }
           - { label: Headline / Bio, name: bio, widget: string }
