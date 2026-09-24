@@ -1,24 +1,41 @@
 backend:
-  name: git-gateway
-  branch: main  # Ana branch'in adı (GitHub'da "main" veya "master" olmalı)
-  commit_messages:
-    create: "Yeni içerik eklendi: {{slug}}"
-    update: "İçerik güncellendi: {{slug}}"
-    delete: "İçerik silindi: {{slug}}"
+  name: github
+  repo: zineda/edadeniz
+  branch: main
+  site_domain: edadeniz.com
 
-site_url: "https://edadeniz.com"  # Buraya kendi site URL'ni yaz
-local_backend: false
+site_url: https://edadeniz.com
+display_url: https://edadeniz.com
 
-media_folder: "static/images/uploads"  # Görsellerin kaydedileceği yer
-public_folder: "/images/uploads"
+media_folder: static/images/uploads
+public_folder: /images/uploads
 
 collections:
-  - name: "blog"
-    label: "Blog Yazıları"
-    folder: "content/post"
+  - name: pages
+    label: Pages
+    files:
+      - name: home
+        label: Home page
+        file: content/_index.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Content, name: body, widget: markdown }
+
+  - name: blog
+    label: Blog posts
+    folder: content/post
     create: true
+    extension: md
+    format: frontmatter
     slug: "{{slug}}"
+    editor:
+      preview: false
     fields:
-      - { label: "Başlık", name: "title", widget: "string" }
-      - { label: "Tarih", name: "date", widget: "datetime" }
-      - { label: "İçerik", name: "body", widget: "markdown" }
+      - { label: Title, name: title, widget: string }
+      - { label: Publish date, name: date, widget: datetime }
+      - { label: Description, name: description, widget: string, required: false }
+      - { label: Categories, name: categories, widget: list, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Image width, name: image_width, widget: string, required: false }
+      - { label: Draft, name: draft, widget: boolean, required: false, default: false }
+      - { label: Content, name: body, widget: markdown }
