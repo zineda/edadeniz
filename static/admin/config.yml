@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: zineda/edadeniz
-  branch: main
+  branch: feat/profile-settings
   site_domain: edadeniz.com
 
 site_url: https://edadeniz.com
