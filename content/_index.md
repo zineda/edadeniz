@@ -1,13 +1,14 @@
 ---
 title: Eda Özdemir
-
 ---
-I’m a Head of Data living in Berlin, Germany – originally from Manisa, Turkey, which is world-famous for its sultana grapes.
+I'm a data and product leader focused on AI, leading teams and shaping strategy to build intelligent products and data-driven organisations. I’m based in Berlin, Germany, and originally from Manisa, Turkey, a region world-famous for its sultana grapes.
 
-Currently, I work at [We Are Era](https://www.weareera.com/), part of an RTL Group, and Bertelsmann, where I lead the Data and Product teams, tasked with writing our very own data and AI success stories by developing scalable data and AI-driven products. Before that, I was working as a data analyst on the Inventory Intelligence team at [Idealo internet GmbH](https://www.idealo.de/), supporting our business teams by providing data-driven analyses and research. R is my dominant language professionally. While I’m doing statistical analysis and modeling data with R and Python, I find Tableau to be the best tool for data visualization because it is easy to use and rich with useful features.
+Currently, I’m Manager of Data Science & Analytics at Zenjob, an AI-driven staffing marketplace connecting jobseekers with flexible work at scale across Germany. I lead the company’s centralised Data Science & Analytics function, comprising two teams that serve as strategic partners across the organisation, from product and engineering to commercial, marketing, and finance.
 
-My bachelor’s degree is in economics from the [University of Ege](https://ege.edu.tr/), and I also studied data science and management (Master of Science) at the [Leuphana University](https://www.leuphana.de/) in Lüneburg.
+My work sits at the intersection of data, AI, product, and business strategy. I partner closely with the executive team to shape profitability, growth, and marketplace strategy, bringing together unit economics, supply and demand dynamics, and product and marketing insights to inform key business decisions. I also oversee the development of data science models and AI-powered solutions that strengthen the marketplace, while fostering a culture of experimentation, clear objectives, and evidence-based decision-making.
 
-I’m always eager to learn, and my passion lies at the intersection of AI, data, and product development. I plan to blog primarily about AI-driven innovations, data strategies, and product-led growth—exploring topics such as machine learning, data visualization, statistical modeling, and creative problem-solving through ideation methods. My ultimate goal is to share what I’ve learned and give insights into what I’m currently involved in.
+Before Zenjob, I was Head of Data & Product at We Are Era, part of RTL Group and Bertelsmann. There, I led Data & Product teams building scalable products and solutions across influencer marketing, content creation, and campaign automation. This included AI-powered influencer and brand matching, rising-star detection for emerging creators, and a unified platform for social media performance analytics. I worked closely with engineering, creative, and business teams to embed data, AI, and GenAI into both the company’s products and its broader strategy.
 
-My other non-data-related interests are behavioral science, politics, history, basketball, travel, podcasts, poetry, and sci-fi. All of which I plan to blog about at some point.
+I’m particularly interested in how AI, data, and product can be used to solve meaningful business problems. I write about turning new technologies into useful products, building strong data and AI capabilities, and creating better ways for teams and organisations to make decisions. My goal is to share what I’ve learned, reflect on what I’m still learning, and explore the shifts in technology, product, and business that I believe are worth paying attention to.
+
+Outside of work, I’m interested in behavioural science, politics, history, basketball, travel, podcasts, poetry, and science fiction, so some of those will probably find their way onto this blog too.
