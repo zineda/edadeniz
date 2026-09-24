@@ -1,0 +1,9 @@
+name = "Eda Deniz Özdemir"
+bio = "Head of Data at [@WeAreEra](http://weareera.com)"
+more_bio = "previously at [@Idealo](https://www.idealo.de/) & [@Smaato](https://www.smaato.com/)"
+avatar = "/images/avatar.jpg"
+
+[social]
+github = "https://github.com/zineda"
+linkedin-square = "https://www.linkedin.com/in/edadenizozdemir/"
+twitter = "https://twitter.com/EdaDenizOzdemir"
