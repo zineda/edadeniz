@@ -23,6 +23,8 @@ collections:
           - { label: Headline / Bio, name: bio, widget: string }
           - { label: Previous roles, name: more_bio, widget: string }
           - { label: Profile photo, name: avatar, widget: image }
+          - { label: SEO / Google title, name: seo_title, widget: string, required: false }
+          - { label: SEO / Google description, name: seo_description, widget: text, required: false }
           - label: Social links
             name: social
             widget: object
