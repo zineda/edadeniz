@@ -2,6 +2,8 @@ name = "Eda Deniz Özdemir"
 bio = "Manager of Data Science & Analytics at [@Zenjob](https://www.zenjob.com/en/)"
 more_bio = "previously at [@Idealo](https://www.idealo.de/) & [@WeAreEra](https://www.weareera.com/)"
 avatar = "/images/avatar.jpg"
+seo_title = "Eda Deniz Özdemir"
+seo_description = "Data, Product, and AI leader with a soft spot for hard problems. Based in Berlin and currently leading Data Science & Analytics at Zenjob."
 
 [social]
 github = "https://github.com/zineda"
