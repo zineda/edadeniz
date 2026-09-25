@@ -4,10 +4,15 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
-		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ $profile := .Site.Data.profile }}
+		{{ with $profile.name | default .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
+		{{ if .IsHome }}
+			{{ with $profile.seo_description | default .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ else }}
+			{{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}{{ with $profile.seo_description | default .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}{{ end }}
+		{{ end }}
 
-		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+		<title>{{ if .IsHome }}{{ $profile.seo_title | default .Title }}{{ else }}{{ .Title }} &middot; {{ $profile.seo_title | default .Site.Title }}{{ end }}</title>
 		<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/imgwidth.css">
